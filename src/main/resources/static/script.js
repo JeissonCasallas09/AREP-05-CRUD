@@ -1,4 +1,4 @@
-let IPADDRESS = "3.89.217.216";
+let IPADDRESS = "localhost";
 
 document.addEventListener("DOMContentLoaded", () => {
     loadProperties();
